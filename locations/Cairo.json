@@ -1,0 +1,329 @@
+[
+            {
+                "name": "Cairo",
+                "chest_unopened_img": "/images/Items/Cairo.png",
+                "chest_opened_img": "/images/Items/open_Chest.png",
+                "overlay_background": "#000000",
+                "access_rules": [" "],
+                "children": [
+            
+                {
+                    "name": "Koopa Treasure",
+                    "chest_unopened_img": "/images/Items/Koopa Treasure.png",
+                    "chest_opened_img": "/images/Items/Koopa Treasure.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Koopa Treasure 1",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Koopa Treasure 2",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Koopa Treasure 3",
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 400,
+                                "y": 415,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Great Pyramid",
+                    "chest_unopened_img": "/images/Items/Great Pyramid.png",
+                    "chest_opened_img": "/images/Items/Great Pyramid.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Photograph",
+                            "access_rules": [ "Top Brick of the Great Pyramid" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Newspaper Article",
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 198,
+                                "y": 239,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Mosque of Mohammed",
+                    "chest_unopened_img": "/images/Items/Mosque of Mohammed.png",
+                    "chest_opened_img": "/images/Items/Mosque of Mohammed.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Photograph",
+                            "access_rules": [ "Gingerbread Clock" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Newspaper Article",
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 234,
+                                "y": 166,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Sphinx",
+                    "chest_unopened_img": "/images/Items/Sphinx.png",
+                    "chest_opened_img": "/images/Items/Sphinx.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Photograph",
+                            "access_rules": [ "Klaft of the Sphinx" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Newspaper Article",
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 247,
+                                "y": 319,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Scientist",
+                    "chest_unopened_img": "/images/Items/Scientist.png",
+                    "chest_opened_img": "/images/Items/Scientist.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Location Advice",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 1 Advice",
+                            "access_rules": [ "Top Brick of the Great Pyramid" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 2 Advice",
+                            "access_rules": [ "Gingerbread Clock" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 3 Advice",
+                            "access_rules": [ "Klaft of the Sphinx" ],
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 23,
+                                "y": 105,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Officer",
+                    "chest_unopened_img": "/images/Items/Officer.png",
+                    "chest_opened_img": "/images/Items/Officer.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Location Advice",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 1 Advice",
+                            "access_rules": [ "Top Brick of the Great Pyramid" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 2 Advice",
+                            "access_rules": [ "Gingerbread Clock" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 3 Advice",
+                            "access_rules": [ "Klaft of the Sphinx" ],
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 47,
+                                "y": 143,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Child",
+                    "chest_unopened_img": "/images/Items/Child.png",
+                    "chest_opened_img": "/images/Items/Child.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Location Advice",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 1 Advice",
+                            "access_rules": [ "Top Brick of the Great Pyramid" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 2 Advice",
+                            "access_rules": [ "Gingerbread Clock" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 3 Advice",
+                            "access_rules": [ "Klaft of the Sphinx" ],
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 124,
+                                "y": 181,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Tourist",
+                    "chest_unopened_img": "/images/Items/Tourist.png",
+                    "chest_opened_img": "/images/Items/Tourist.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Location Advice",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 1 Advice",
+                            "access_rules": [ "Top Brick of the Great Pyramid" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 2 Advice",
+                            "access_rules": [ "Gingerbread Clock" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 3 Advice",
+                            "access_rules": [ "Klaft of the Sphinx" ],
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 499,
+                                "y": 451,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Businesswoman",
+                    "chest_unopened_img": "/images/Items/Businesswoman.png",
+                    "chest_opened_img": "/images/Items/Businesswoman.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Location Advice",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 1 Advice",
+                            "access_rules": [ "Top Brick of the Great Pyramid" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 2 Advice",
+                            "access_rules": [ "Gingerbread Clock" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 3 Advice",
+                            "access_rules": [ "Klaft of the Sphinx" ],
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 119,
+                                "y": 86,
+                                "size": 6
+                            }
+                        ]
+                        }
+    
+                ]
+            }
+        ]

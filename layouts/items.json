@@ -1,0 +1,179 @@
+
+        {
+    "shared_item_grid_horizontal": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+[
+"Gladiator'sSpear",
+"CoinsfromtheTreviFountain",
+"SistineChapelCeiling",
+"NotreDameBell",
+"EternalFlame",
+"Tricolor",
+"CrownJewels"
+]
+,[
+"BustofShakespeare",
+"BigBen'sMinuteHand",
+"KingKong",
+"StatueofLibertyTorch",
+"StatueofPrometheus",
+"GoldenGateBridgeFoghorn",
+"WindowfromCoitTower"
+]
+,[
+"TopoftheTransamericaPyramid",
+"Caryatid",
+"BrassPlaque",
+"ParthenonColumn",
+"SurfboardfromBondiBeach",
+"TarongaZooKoala",
+"SydneyOperaSheetMusic"
+]
+,[
+"GreatBuddha'sOrange",
+"SensojiTempleLatern",
+"SumoApron",
+"BabyElephant",
+"MaasaiHeaddress",
+"HumanSkull",
+"SpotlightfromChristtheRedeemerStatue"
+]
+,[
+"CopacabanaBeachSeashell",
+"SugarLoafMountainCableCar",
+"TopBrickoftheGreatPyramid",
+"GingerbreadClock",
+"KlaftoftheSphinx",
+"CannonballfromtheEmperor'sCannon",
+"CathedralDome"
+]
+,[
+"BolshoiBalletSlipper",
+"HallofGoodHarvest",
+"StonefromtheGreatWall",
+"GateofHeavenlyPeace",
+"FlutefromtheTeatroColon",
+"Boleadoras",
+"StonefromtheObelisk"
+]
+,[
+"Angel",
+"DiegoRiveraMural",
+"FineArtsCatalog",
+"CastleFloorKey",
+"Newspaper",
+"Photograph",
+"Advice"
+]
+]
+}
+]
+}
+]
+},
+            "shared_item_grid_vertical": {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "array",
+                        "orientation": "vertical",
+                        "margin": "0,0",
+                        "content": [
+                            {
+                                "type": "itemgrid",
+                                "item_margin": "2, 2",
+                                "h_alignment": "left",
+                                "item_h_alignment": "center",
+                                "item_v_alignment": "center",
+                                "item_height": 36,
+                                "item_width": 36,
+                                "rows": [
+[
+"Gladiator'sSpear",
+"CoinsfromtheTreviFountain",
+"SistineChapelCeiling",
+"NotreDameBell",
+"EternalFlame",
+"Tricolor",
+"CrownJewels"
+]
+,[
+"BustofShakespeare",
+"BigBen'sMinuteHand",
+"KingKong",
+"StatueofLibertyTorch",
+"StatueofPrometheus",
+"GoldenGateBridgeFoghorn",
+"WindowfromCoitTower"
+]
+,[
+"TopoftheTransamericaPyramid",
+"Caryatid",
+"BrassPlaque",
+"ParthenonColumn",
+"SurfboardfromBondiBeach",
+"TarongaZooKoala",
+"SydneyOperaSheetMusic"
+]
+,[
+"GreatBuddha'sOrange",
+"SensojiTempleLatern",
+"SumoApron",
+"BabyElephant",
+"MaasaiHeaddress",
+"HumanSkull",
+"SpotlightfromChristtheRedeemerStatue"
+]
+,[
+"CopacabanaBeachSeashell",
+"SugarLoafMountainCableCar",
+"TopBrickoftheGreatPyramid",
+"GingerbreadClock",
+"KlaftoftheSphinx",
+"CannonballfromtheEmperor'sCannon",
+"CathedralDome"
+]
+,[
+"BolshoiBalletSlipper",
+"HallofGoodHarvest",
+"StonefromtheGreatWall",
+"GateofHeavenlyPeace",
+"FlutefromtheTeatroColon",
+"Boleadoras",
+"StonefromtheObelisk"
+]
+,[
+"Angel",
+"DiegoRiveraMural",
+"FineArtsCatalog",
+"CastleFloorKey",
+"Newspaper",
+"Photograph",
+"Advice"
+]
+]
+}
+]
+}
+]
+}
+}

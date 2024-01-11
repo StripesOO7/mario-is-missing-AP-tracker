@@ -1,0 +1,907 @@
+[
+                    {
+                        "name": "Gladiator's Spear",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Gladiator's Spear.png",
+                                "codes": "Gladiator'sSpear"
+                            },
+                            {
+                                "name": "Gladiator's Spear returned",
+                                "img": "/images/Items/Gladiator's Spear.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "Gladiator'sSpear_returned"
+                            }
+                        ],
+                        "codes": "Gladiator'sSpear"
+                    },
+                    
+                    {
+                        "name": "Coins from the Trevi Fountain",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Coins from the Trevi Fountain.png",
+                                "codes": "CoinsfromtheTreviFountain"
+                            },
+                            {
+                                "name": "Coins from the Trevi Fountain returned",
+                                "img": "/images/Items/Coins from the Trevi Fountain.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "CoinsfromtheTreviFountain_returned"
+                            }
+                        ],
+                        "codes": "CoinsfromtheTreviFountain"
+                    },
+                    
+                    {
+                        "name": "Sistine Chapel Ceiling",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Sistine Chapel Ceiling.png",
+                                "codes": "SistineChapelCeiling"
+                            },
+                            {
+                                "name": "Sistine Chapel Ceiling returned",
+                                "img": "/images/Items/Sistine Chapel Ceiling.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "SistineChapelCeiling_returned"
+                            }
+                        ],
+                        "codes": "SistineChapelCeiling"
+                    },
+                    
+                    {
+                        "name": "Notre Dame Bell",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Notre Dame Bell.png",
+                                "codes": "NotreDameBell"
+                            },
+                            {
+                                "name": "Notre Dame Bell returned",
+                                "img": "/images/Items/Notre Dame Bell.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "NotreDameBell_returned"
+                            }
+                        ],
+                        "codes": "NotreDameBell"
+                    },
+                    
+                    {
+                        "name": "Eternal Flame",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Eternal Flame.png",
+                                "codes": "EternalFlame"
+                            },
+                            {
+                                "name": "Eternal Flame returned",
+                                "img": "/images/Items/Eternal Flame.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "EternalFlame_returned"
+                            }
+                        ],
+                        "codes": "EternalFlame"
+                    },
+                    
+                    {
+                        "name": "Tricolor",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Tricolor.png",
+                                "codes": "Tricolor"
+                            },
+                            {
+                                "name": "Tricolor returned",
+                                "img": "/images/Items/Tricolor.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "Tricolor_returned"
+                            }
+                        ],
+                        "codes": "Tricolor"
+                    },
+                    
+                    {
+                        "name": "Crown Jewels",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Crown Jewels.png",
+                                "codes": "CrownJewels"
+                            },
+                            {
+                                "name": "Crown Jewels returned",
+                                "img": "/images/Items/Crown Jewels.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "CrownJewels_returned"
+                            }
+                        ],
+                        "codes": "CrownJewels"
+                    },
+                    
+                    {
+                        "name": "Bust of Shakespeare",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Bust of Shakespeare.png",
+                                "codes": "BustofShakespeare"
+                            },
+                            {
+                                "name": "Bust of Shakespeare returned",
+                                "img": "/images/Items/Bust of Shakespeare.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "BustofShakespeare_returned"
+                            }
+                        ],
+                        "codes": "BustofShakespeare"
+                    },
+                    
+                    {
+                        "name": "Big Ben's Minute Hand",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Big Ben's Minute Hand.png",
+                                "codes": "BigBen'sMinuteHand"
+                            },
+                            {
+                                "name": "Big Ben's Minute Hand returned",
+                                "img": "/images/Items/Big Ben's Minute Hand.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "BigBen'sMinuteHand_returned"
+                            }
+                        ],
+                        "codes": "BigBen'sMinuteHand"
+                    },
+                    
+                    {
+                        "name": "King Kong",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/King Kong.png",
+                                "codes": "KingKong"
+                            },
+                            {
+                                "name": "King Kong returned",
+                                "img": "/images/Items/King Kong.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "KingKong_returned"
+                            }
+                        ],
+                        "codes": "KingKong"
+                    },
+                    
+                    {
+                        "name": "Statue of Liberty Torch",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Statue of Liberty Torch.png",
+                                "codes": "StatueofLibertyTorch"
+                            },
+                            {
+                                "name": "Statue of Liberty Torch returned",
+                                "img": "/images/Items/Statue of Liberty Torch.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "StatueofLibertyTorch_returned"
+                            }
+                        ],
+                        "codes": "StatueofLibertyTorch"
+                    },
+                    
+                    {
+                        "name": "Statue of Prometheus",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Statue of Prometheus.png",
+                                "codes": "StatueofPrometheus"
+                            },
+                            {
+                                "name": "Statue of Prometheus returned",
+                                "img": "/images/Items/Statue of Prometheus.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "StatueofPrometheus_returned"
+                            }
+                        ],
+                        "codes": "StatueofPrometheus"
+                    },
+                    
+                    {
+                        "name": "Golden Gate Bridge Foghorn",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Golden Gate Bridge Foghorn.png",
+                                "codes": "GoldenGateBridgeFoghorn"
+                            },
+                            {
+                                "name": "Golden Gate Bridge Foghorn returned",
+                                "img": "/images/Items/Golden Gate Bridge Foghorn.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "GoldenGateBridgeFoghorn_returned"
+                            }
+                        ],
+                        "codes": "GoldenGateBridgeFoghorn"
+                    },
+                    
+                    {
+                        "name": "Window from Coit Tower",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Window from Coit Tower.png",
+                                "codes": "WindowfromCoitTower"
+                            },
+                            {
+                                "name": "Window from Coit Tower returned",
+                                "img": "/images/Items/Window from Coit Tower.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "WindowfromCoitTower_returned"
+                            }
+                        ],
+                        "codes": "WindowfromCoitTower"
+                    },
+                    
+                    {
+                        "name": "Top of the Transamerica Pyramid",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Top of the Transamerica Pyramid.png",
+                                "codes": "TopoftheTransamericaPyramid"
+                            },
+                            {
+                                "name": "Top of the Transamerica Pyramid returned",
+                                "img": "/images/Items/Top of the Transamerica Pyramid.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "TopoftheTransamericaPyramid_returned"
+                            }
+                        ],
+                        "codes": "TopoftheTransamericaPyramid"
+                    },
+                    
+                    {
+                        "name": "Caryatid",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Caryatid.png",
+                                "codes": "Caryatid"
+                            },
+                            {
+                                "name": "Caryatid returned",
+                                "img": "/images/Items/Caryatid.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "Caryatid_returned"
+                            }
+                        ],
+                        "codes": "Caryatid"
+                    },
+                    
+                    {
+                        "name": "Brass Plaque",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Brass Plaque.png",
+                                "codes": "BrassPlaque"
+                            },
+                            {
+                                "name": "Brass Plaque returned",
+                                "img": "/images/Items/Brass Plaque.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "BrassPlaque_returned"
+                            }
+                        ],
+                        "codes": "BrassPlaque"
+                    },
+                    
+                    {
+                        "name": "Parthenon Column",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Parthenon Column.png",
+                                "codes": "ParthenonColumn"
+                            },
+                            {
+                                "name": "Parthenon Column returned",
+                                "img": "/images/Items/Parthenon Column.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "ParthenonColumn_returned"
+                            }
+                        ],
+                        "codes": "ParthenonColumn"
+                    },
+                    
+                    {
+                        "name": "Surfboard from Bondi Beach",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Surfboard from Bondi Beach.png",
+                                "codes": "SurfboardfromBondiBeach"
+                            },
+                            {
+                                "name": "Surfboard from Bondi Beach returned",
+                                "img": "/images/Items/Surfboard from Bondi Beach.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "SurfboardfromBondiBeach_returned"
+                            }
+                        ],
+                        "codes": "SurfboardfromBondiBeach"
+                    },
+                    
+                    {
+                        "name": "Taronga Zoo Koala",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Taronga Zoo Koala.png",
+                                "codes": "TarongaZooKoala"
+                            },
+                            {
+                                "name": "Taronga Zoo Koala returned",
+                                "img": "/images/Items/Taronga Zoo Koala.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "TarongaZooKoala_returned"
+                            }
+                        ],
+                        "codes": "TarongaZooKoala"
+                    },
+                    
+                    {
+                        "name": "Sydney Opera Sheet Music",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Sydney Opera Sheet Music.png",
+                                "codes": "SydneyOperaSheetMusic"
+                            },
+                            {
+                                "name": "Sydney Opera Sheet Music returned",
+                                "img": "/images/Items/Sydney Opera Sheet Music.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "SydneyOperaSheetMusic_returned"
+                            }
+                        ],
+                        "codes": "SydneyOperaSheetMusic"
+                    },
+                    
+                    {
+                        "name": "Great Buddha's Orange",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Great Buddha's Orange.png",
+                                "codes": "GreatBuddha'sOrange"
+                            },
+                            {
+                                "name": "Great Buddha's Orange returned",
+                                "img": "/images/Items/Great Buddha's Orange.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "GreatBuddha'sOrange_returned"
+                            }
+                        ],
+                        "codes": "GreatBuddha'sOrange"
+                    },
+                    
+                    {
+                        "name": "Sensoji Temple Latern",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Sensoji Temple Latern.png",
+                                "codes": "SensojiTempleLatern"
+                            },
+                            {
+                                "name": "Sensoji Temple Latern returned",
+                                "img": "/images/Items/Sensoji Temple Latern.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "SensojiTempleLatern_returned"
+                            }
+                        ],
+                        "codes": "SensojiTempleLatern"
+                    },
+                    
+                    {
+                        "name": "Sumo Apron",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Sumo Apron.png",
+                                "codes": "SumoApron"
+                            },
+                            {
+                                "name": "Sumo Apron returned",
+                                "img": "/images/Items/Sumo Apron.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "SumoApron_returned"
+                            }
+                        ],
+                        "codes": "SumoApron"
+                    },
+                    
+                    {
+                        "name": "Baby Elephant",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Baby Elephant.png",
+                                "codes": "BabyElephant"
+                            },
+                            {
+                                "name": "Baby Elephant returned",
+                                "img": "/images/Items/Baby Elephant.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "BabyElephant_returned"
+                            }
+                        ],
+                        "codes": "BabyElephant"
+                    },
+                    
+                    {
+                        "name": "Maasai Headdress",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Maasai Headdress.png",
+                                "codes": "MaasaiHeaddress"
+                            },
+                            {
+                                "name": "Maasai Headdress returned",
+                                "img": "/images/Items/Maasai Headdress.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "MaasaiHeaddress_returned"
+                            }
+                        ],
+                        "codes": "MaasaiHeaddress"
+                    },
+                    
+                    {
+                        "name": "Human Skull",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Human Skull.png",
+                                "codes": "HumanSkull"
+                            },
+                            {
+                                "name": "Human Skull returned",
+                                "img": "/images/Items/Human Skull.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "HumanSkull_returned"
+                            }
+                        ],
+                        "codes": "HumanSkull"
+                    },
+                    
+                    {
+                        "name": "Spotlight from Christ the Redeemer Statue",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Spotlight from Christ the Redeemer Statue.png",
+                                "codes": "SpotlightfromChristtheRedeemerStatue"
+                            },
+                            {
+                                "name": "Spotlight from Christ the Redeemer Statue returned",
+                                "img": "/images/Items/Spotlight from Christ the Redeemer Statue.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "SpotlightfromChristtheRedeemerStatue_returned"
+                            }
+                        ],
+                        "codes": "SpotlightfromChristtheRedeemerStatue"
+                    },
+                    
+                    {
+                        "name": "Copacabana Beach Seashell",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Copacabana Beach Seashell.png",
+                                "codes": "CopacabanaBeachSeashell"
+                            },
+                            {
+                                "name": "Copacabana Beach Seashell returned",
+                                "img": "/images/Items/Copacabana Beach Seashell.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "CopacabanaBeachSeashell_returned"
+                            }
+                        ],
+                        "codes": "CopacabanaBeachSeashell"
+                    },
+                    
+                    {
+                        "name": "Sugar Loaf Mountain Cable Car",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Sugar Loaf Mountain Cable Car.png",
+                                "codes": "SugarLoafMountainCableCar"
+                            },
+                            {
+                                "name": "Sugar Loaf Mountain Cable Car returned",
+                                "img": "/images/Items/Sugar Loaf Mountain Cable Car.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "SugarLoafMountainCableCar_returned"
+                            }
+                        ],
+                        "codes": "SugarLoafMountainCableCar"
+                    },
+                    
+                    {
+                        "name": "Top Brick of the Great Pyramid",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Top Brick of the Great Pyramid.png",
+                                "codes": "TopBrickoftheGreatPyramid"
+                            },
+                            {
+                                "name": "Top Brick of the Great Pyramid returned",
+                                "img": "/images/Items/Top Brick of the Great Pyramid.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "TopBrickoftheGreatPyramid_returned"
+                            }
+                        ],
+                        "codes": "TopBrickoftheGreatPyramid"
+                    },
+                    
+                    {
+                        "name": "Gingerbread Clock",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Gingerbread Clock.png",
+                                "codes": "GingerbreadClock"
+                            },
+                            {
+                                "name": "Gingerbread Clock returned",
+                                "img": "/images/Items/Gingerbread Clock.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "GingerbreadClock_returned"
+                            }
+                        ],
+                        "codes": "GingerbreadClock"
+                    },
+                    
+                    {
+                        "name": "Klaft of the Sphinx",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Klaft of the Sphinx.png",
+                                "codes": "KlaftoftheSphinx"
+                            },
+                            {
+                                "name": "Klaft of the Sphinx returned",
+                                "img": "/images/Items/Klaft of the Sphinx.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "KlaftoftheSphinx_returned"
+                            }
+                        ],
+                        "codes": "KlaftoftheSphinx"
+                    },
+                    
+                    {
+                        "name": "Cannonball from the Emperor's Cannon",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Cannonball from the Emperor's Cannon.png",
+                                "codes": "CannonballfromtheEmperor'sCannon"
+                            },
+                            {
+                                "name": "Cannonball from the Emperor's Cannon returned",
+                                "img": "/images/Items/Cannonball from the Emperor's Cannon.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "CannonballfromtheEmperor'sCannon_returned"
+                            }
+                        ],
+                        "codes": "CannonballfromtheEmperor'sCannon"
+                    },
+                    
+                    {
+                        "name": "Cathedral Dome",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Cathedral Dome.png",
+                                "codes": "CathedralDome"
+                            },
+                            {
+                                "name": "Cathedral Dome returned",
+                                "img": "/images/Items/Cathedral Dome.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "CathedralDome_returned"
+                            }
+                        ],
+                        "codes": "CathedralDome"
+                    },
+                    
+                    {
+                        "name": "Bolshoi Ballet Slipper",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Bolshoi Ballet Slipper.png",
+                                "codes": "BolshoiBalletSlipper"
+                            },
+                            {
+                                "name": "Bolshoi Ballet Slipper returned",
+                                "img": "/images/Items/Bolshoi Ballet Slipper.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "BolshoiBalletSlipper_returned"
+                            }
+                        ],
+                        "codes": "BolshoiBalletSlipper"
+                    },
+                    
+                    {
+                        "name": "Hall of Good Harvest",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Hall of Good Harvest.png",
+                                "codes": "HallofGoodHarvest"
+                            },
+                            {
+                                "name": "Hall of Good Harvest returned",
+                                "img": "/images/Items/Hall of Good Harvest.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "HallofGoodHarvest_returned"
+                            }
+                        ],
+                        "codes": "HallofGoodHarvest"
+                    },
+                    
+                    {
+                        "name": "Stone from the Great Wall",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Stone from the Great Wall.png",
+                                "codes": "StonefromtheGreatWall"
+                            },
+                            {
+                                "name": "Stone from the Great Wall returned",
+                                "img": "/images/Items/Stone from the Great Wall.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "StonefromtheGreatWall_returned"
+                            }
+                        ],
+                        "codes": "StonefromtheGreatWall"
+                    },
+                    
+                    {
+                        "name": "Gate of Heavenly Peace",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Gate of Heavenly Peace.png",
+                                "codes": "GateofHeavenlyPeace"
+                            },
+                            {
+                                "name": "Gate of Heavenly Peace returned",
+                                "img": "/images/Items/Gate of Heavenly Peace.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "GateofHeavenlyPeace_returned"
+                            }
+                        ],
+                        "codes": "GateofHeavenlyPeace"
+                    },
+                    
+                    {
+                        "name": "Flute from the Teatro Colon",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Flute from the Teatro Colon.png",
+                                "codes": "FlutefromtheTeatroColon"
+                            },
+                            {
+                                "name": "Flute from the Teatro Colon returned",
+                                "img": "/images/Items/Flute from the Teatro Colon.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "FlutefromtheTeatroColon_returned"
+                            }
+                        ],
+                        "codes": "FlutefromtheTeatroColon"
+                    },
+                    
+                    {
+                        "name": "Boleadoras",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Boleadoras.png",
+                                "codes": "Boleadoras"
+                            },
+                            {
+                                "name": "Boleadoras returned",
+                                "img": "/images/Items/Boleadoras.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "Boleadoras_returned"
+                            }
+                        ],
+                        "codes": "Boleadoras"
+                    },
+                    
+                    {
+                        "name": "Stone from the Obelisk",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Stone from the Obelisk.png",
+                                "codes": "StonefromtheObelisk"
+                            },
+                            {
+                                "name": "Stone from the Obelisk returned",
+                                "img": "/images/Items/Stone from the Obelisk.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "StonefromtheObelisk_returned"
+                            }
+                        ],
+                        "codes": "StonefromtheObelisk"
+                    },
+                    
+                    {
+                        "name": "Angel",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Angel.png",
+                                "codes": "Angel"
+                            },
+                            {
+                                "name": "Angel returned",
+                                "img": "/images/Items/Angel.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "Angel_returned"
+                            }
+                        ],
+                        "codes": "Angel"
+                    },
+                    
+                    {
+                        "name": "Diego Rivera Mural",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Diego Rivera Mural.png",
+                                "codes": "DiegoRiveraMural"
+                            },
+                            {
+                                "name": "Diego Rivera Mural returned",
+                                "img": "/images/Items/Diego Rivera Mural.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "DiegoRiveraMural_returned"
+                            }
+                        ],
+                        "codes": "DiegoRiveraMural"
+                    },
+                    
+                    {
+                        "name": "Fine Arts Catalog",
+                        "type": "progressive",
+                        "loop": false,
+                        "stages": [
+                            {
+                                "img": "/images/Items/Fine Arts Catalog.png",
+                                "codes": "FineArtsCatalog"
+                            },
+                            {
+                                "name": "Fine Arts Catalog returned",
+                                "img": "/images/Items/Fine Arts Catalog.png",
+                                "img_mods": "overlay|/images/Menu/Check.png",
+                                "codes": "FineArtsCatalog_returned"
+                            }
+                        ],
+                        "codes": "FineArtsCatalog"
+                    },
+                    
+                    {
+                        "name": "Castle Floor Key",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/Castle Floor Key.png",
+                        "overlay_background": "#000000",
+                        "codes": "CastleFloorKey"
+                    },
+                    {
+                        "name": "Newspaper",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/Newspaper.png",
+                        "overlay_background": "#000000",
+                        "codes": "Newspaper"
+                    },
+                    {
+                        "name": "Photograph",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/Photograph.png",
+                        "overlay_background": "#000000",
+                        "codes": "Photograph"
+                    },
+                    {
+                        "name": "Advice",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/Advice.png",
+                        "overlay_background": "#000000",
+                        "codes": "Advice"
+                    },
+            {
+            }
+        ]

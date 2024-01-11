@@ -1,0 +1,329 @@
+[
+            {
+                "name": "Rome",
+                "chest_unopened_img": "/images/Items/Rome.png",
+                "chest_opened_img": "/images/Items/open_Chest.png",
+                "overlay_background": "#000000",
+                "access_rules": [" "],
+                "children": [
+            
+                {
+                    "name": "Koopa Treasure",
+                    "chest_unopened_img": "/images/Items/Koopa Treasure.png",
+                    "chest_opened_img": "/images/Items/Koopa Treasure.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Koopa Treasure 1",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Koopa Treasure 2",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Koopa Treasure 3",
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 166,
+                                "y": 450,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Colosseum",
+                    "chest_unopened_img": "/images/Items/Colosseum.png",
+                    "chest_opened_img": "/images/Items/Colosseum.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Photograph",
+                            "access_rules": [ "Gladiator's Spear" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Newspaper Article",
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 246,
+                                "y": 304,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Trevi Fountain",
+                    "chest_unopened_img": "/images/Items/Trevi Fountain.png",
+                    "chest_opened_img": "/images/Items/Trevi Fountain.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Photograph",
+                            "access_rules": [ "Coins from the Trevi Fountain" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Newspaper Article",
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 282,
+                                "y": 41,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Sistine Chapel",
+                    "chest_unopened_img": "/images/Items/Sistine Chapel.png",
+                    "chest_opened_img": "/images/Items/Sistine Chapel.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Photograph",
+                            "access_rules": [ "Sistine Chapel Ceiling" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Newspaper Article",
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 88,
+                                "y": 459,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Scientist",
+                    "chest_unopened_img": "/images/Items/Scientist.png",
+                    "chest_opened_img": "/images/Items/Scientist.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Location Advice",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 1 Advice",
+                            "access_rules": [ "Gladiator's Spear" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 2 Advice",
+                            "access_rules": [ "Coins from the Trevi Fountain" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 3 Advice",
+                            "access_rules": [ "Sistine Chapel Ceiling" ],
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 452,
+                                "y": 61,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Officer",
+                    "chest_unopened_img": "/images/Items/Officer.png",
+                    "chest_opened_img": "/images/Items/Officer.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Location Advice",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 1 Advice",
+                            "access_rules": [ "Gladiator's Spear" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 2 Advice",
+                            "access_rules": [ "Coins from the Trevi Fountain" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 3 Advice",
+                            "access_rules": [ "Sistine Chapel Ceiling" ],
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 16,
+                                "y": 120,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Child",
+                    "chest_unopened_img": "/images/Items/Child.png",
+                    "chest_opened_img": "/images/Items/Child.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Location Advice",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 1 Advice",
+                            "access_rules": [ "Gladiator's Spear" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 2 Advice",
+                            "access_rules": [ "Coins from the Trevi Fountain" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 3 Advice",
+                            "access_rules": [ "Sistine Chapel Ceiling" ],
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 217,
+                                "y": 457,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Tourist",
+                    "chest_unopened_img": "/images/Items/Tourist.png",
+                    "chest_opened_img": "/images/Items/Tourist.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Location Advice",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 1 Advice",
+                            "access_rules": [ "Gladiator's Spear" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 2 Advice",
+                            "access_rules": [ "Coins from the Trevi Fountain" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 3 Advice",
+                            "access_rules": [ "Sistine Chapel Ceiling" ],
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 474,
+                                "y": 23,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Businesswoman",
+                    "chest_unopened_img": "/images/Items/Businesswoman.png",
+                    "chest_opened_img": "/images/Items/Businesswoman.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Location Advice",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 1 Advice",
+                            "access_rules": [ "Gladiator's Spear" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 2 Advice",
+                            "access_rules": [ "Coins from the Trevi Fountain" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 3 Advice",
+                            "access_rules": [ "Sistine Chapel Ceiling" ],
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 496,
+                                "y": 319,
+                                "size": 6
+                            }
+                        ]
+                        }
+    
+                ]
+            }
+        ]

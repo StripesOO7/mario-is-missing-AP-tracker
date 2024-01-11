@@ -1,0 +1,329 @@
+[
+            {
+                "name": "Mexico City",
+                "chest_unopened_img": "/images/Items/Mexico City.png",
+                "chest_opened_img": "/images/Items/open_Chest.png",
+                "overlay_background": "#000000",
+                "access_rules": [" "],
+                "children": [
+            
+                {
+                    "name": "Koopa Treasure",
+                    "chest_unopened_img": "/images/Items/Koopa Treasure.png",
+                    "chest_opened_img": "/images/Items/Koopa Treasure.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Koopa Treasure 1",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Koopa Treasure 2",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Koopa Treasure 3",
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 25,
+                                "y": 415,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Angel of Independence",
+                    "chest_unopened_img": "/images/Items/Angel of Independence.png",
+                    "chest_opened_img": "/images/Items/Angel of Independence.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Photograph",
+                            "access_rules": [ "Angel" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Newspaper Article",
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 124,
+                                "y": 278,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "National Palace",
+                    "chest_unopened_img": "/images/Items/National Palace.png",
+                    "chest_opened_img": "/images/Items/National Palace.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Photograph",
+                            "access_rules": [ "Diego Rivera Mural" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Newspaper Article",
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 110,
+                                "y": 469,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Fine Arts Palace",
+                    "chest_unopened_img": "/images/Items/Fine Arts Palace.png",
+                    "chest_opened_img": "/images/Items/Fine Arts Palace.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Photograph",
+                            "access_rules": [ "Fine Arts Catalog" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Newspaper Article",
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 365,
+                                "y": 306,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Scientist",
+                    "chest_unopened_img": "/images/Items/Scientist.png",
+                    "chest_opened_img": "/images/Items/Scientist.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Location Advice",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 1 Advice",
+                            "access_rules": [ "Angel" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 2 Advice",
+                            "access_rules": [ "Diego Rivera Mural" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 3 Advice",
+                            "access_rules": [ "Fine Arts Catalog" ],
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 388,
+                                "y": 240,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Officer",
+                    "chest_unopened_img": "/images/Items/Officer.png",
+                    "chest_opened_img": "/images/Items/Officer.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Location Advice",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 1 Advice",
+                            "access_rules": [ "Angel" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 2 Advice",
+                            "access_rules": [ "Diego Rivera Mural" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 3 Advice",
+                            "access_rules": [ "Fine Arts Catalog" ],
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 477,
+                                "y": 257,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Child",
+                    "chest_unopened_img": "/images/Items/Child.png",
+                    "chest_opened_img": "/images/Items/Child.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Location Advice",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 1 Advice",
+                            "access_rules": [ "Angel" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 2 Advice",
+                            "access_rules": [ "Diego Rivera Mural" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 3 Advice",
+                            "access_rules": [ "Fine Arts Catalog" ],
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 103,
+                                "y": 476,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Tourist",
+                    "chest_unopened_img": "/images/Items/Tourist.png",
+                    "chest_opened_img": "/images/Items/Tourist.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Location Advice",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 1 Advice",
+                            "access_rules": [ "Angel" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 2 Advice",
+                            "access_rules": [ "Diego Rivera Mural" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 3 Advice",
+                            "access_rules": [ "Fine Arts Catalog" ],
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 26,
+                                "y": 345,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Businesswoman",
+                    "chest_unopened_img": "/images/Items/Businesswoman.png",
+                    "chest_opened_img": "/images/Items/Businesswoman.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Location Advice",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 1 Advice",
+                            "access_rules": [ "Angel" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 2 Advice",
+                            "access_rules": [ "Diego Rivera Mural" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 3 Advice",
+                            "access_rules": [ "Fine Arts Catalog" ],
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 332,
+                                "y": 385,
+                                "size": 6
+                            }
+                        ]
+                        }
+    
+                ]
+            }
+        ]

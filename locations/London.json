@@ -1,0 +1,329 @@
+[
+            {
+                "name": "London",
+                "chest_unopened_img": "/images/Items/London.png",
+                "chest_opened_img": "/images/Items/open_Chest.png",
+                "overlay_background": "#000000",
+                "access_rules": [" "],
+                "children": [
+            
+                {
+                    "name": "Koopa Treasure",
+                    "chest_unopened_img": "/images/Items/Koopa Treasure.png",
+                    "chest_opened_img": "/images/Items/Koopa Treasure.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Koopa Treasure 1",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Koopa Treasure 2",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Koopa Treasure 3",
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 26,
+                                "y": 324,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Tower of London",
+                    "chest_unopened_img": "/images/Items/Tower of London.png",
+                    "chest_opened_img": "/images/Items/Tower of London.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Photograph",
+                            "access_rules": [ "Crown Jewels" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Newspaper Article",
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 336,
+                                "y": 349,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Westminster Abbey",
+                    "chest_unopened_img": "/images/Items/Westminster Abbey.png",
+                    "chest_opened_img": "/images/Items/Westminster Abbey.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Photograph",
+                            "access_rules": [ "Bust of Shakespeare" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Newspaper Article",
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 460,
+                                "y": 26,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Big Ben",
+                    "chest_unopened_img": "/images/Items/Big Ben.png",
+                    "chest_opened_img": "/images/Items/Big Ben.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Photograph",
+                            "access_rules": [ "Big Ben's Minute Hand" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Newspaper Article",
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 382,
+                                "y": 294,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Scientist",
+                    "chest_unopened_img": "/images/Items/Scientist.png",
+                    "chest_opened_img": "/images/Items/Scientist.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Location Advice",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 1 Advice",
+                            "access_rules": [ "Crown Jewels" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 2 Advice",
+                            "access_rules": [ "Bust of Shakespeare" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 3 Advice",
+                            "access_rules": [ "Big Ben's Minute Hand" ],
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 354,
+                                "y": 387,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Officer",
+                    "chest_unopened_img": "/images/Items/Officer.png",
+                    "chest_opened_img": "/images/Items/Officer.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Location Advice",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 1 Advice",
+                            "access_rules": [ "Crown Jewels" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 2 Advice",
+                            "access_rules": [ "Bust of Shakespeare" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 3 Advice",
+                            "access_rules": [ "Big Ben's Minute Hand" ],
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 451,
+                                "y": 453,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Child",
+                    "chest_unopened_img": "/images/Items/Child.png",
+                    "chest_opened_img": "/images/Items/Child.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Location Advice",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 1 Advice",
+                            "access_rules": [ "Crown Jewels" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 2 Advice",
+                            "access_rules": [ "Bust of Shakespeare" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 3 Advice",
+                            "access_rules": [ "Big Ben's Minute Hand" ],
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 333,
+                                "y": 397,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Tourist",
+                    "chest_unopened_img": "/images/Items/Tourist.png",
+                    "chest_opened_img": "/images/Items/Tourist.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Location Advice",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 1 Advice",
+                            "access_rules": [ "Crown Jewels" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 2 Advice",
+                            "access_rules": [ "Bust of Shakespeare" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 3 Advice",
+                            "access_rules": [ "Big Ben's Minute Hand" ],
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 485,
+                                "y": 257,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Businesswoman",
+                    "chest_unopened_img": "/images/Items/Businesswoman.png",
+                    "chest_opened_img": "/images/Items/Businesswoman.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Location Advice",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 1 Advice",
+                            "access_rules": [ "Crown Jewels" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 2 Advice",
+                            "access_rules": [ "Eternal Flame" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 3 Advice",
+                            "access_rules": [ "Big Ben's Minute Hand" ],
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 344,
+                                "y": 422,
+                                "size": 6
+                            }
+                        ]
+                        }
+    
+                ]
+            }
+        ]

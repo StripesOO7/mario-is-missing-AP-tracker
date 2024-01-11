@@ -1,0 +1,329 @@
+[
+            {
+                "name": "Sydney",
+                "chest_unopened_img": "/images/Items/Sydney.png",
+                "chest_opened_img": "/images/Items/open_Chest.png",
+                "overlay_background": "#000000",
+                "access_rules": [" "],
+                "children": [
+            
+                {
+                    "name": "Koopa Treasure",
+                    "chest_unopened_img": "/images/Items/Koopa Treasure.png",
+                    "chest_opened_img": "/images/Items/Koopa Treasure.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Koopa Treasure 1",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Koopa Treasure 2",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Koopa Treasure 3",
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 286,
+                                "y": 241,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Bondi Beach",
+                    "chest_unopened_img": "/images/Items/Bondi Beach.png",
+                    "chest_opened_img": "/images/Items/Bondi Beach.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Photograph",
+                            "access_rules": [ "Surfboard from Bondi Beach" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Newspaper Article",
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 297,
+                                "y": 378,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Taronga Zoo",
+                    "chest_unopened_img": "/images/Items/Taronga Zoo.png",
+                    "chest_opened_img": "/images/Items/Taronga Zoo.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Photograph",
+                            "access_rules": [ "Taronga Zoo Koala" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Newspaper Article",
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 439,
+                                "y": 96,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Sydney Opera",
+                    "chest_unopened_img": "/images/Items/Sydney Opera.png",
+                    "chest_opened_img": "/images/Items/Sydney Opera.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Photograph",
+                            "access_rules": [ "Sydney Opera Sheet Music" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Newspaper Article",
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 213,
+                                "y": 387,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Scientist",
+                    "chest_unopened_img": "/images/Items/Scientist.png",
+                    "chest_opened_img": "/images/Items/Scientist.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Location Advice",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 1 Advice",
+                            "access_rules": [ "Surfboard from Bondi Beach" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 2 Advice",
+                            "access_rules": [ "Taronga Zoo Koala" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 3 Advice",
+                            "access_rules": [ "Sydney Opera Sheet Music" ],
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 444,
+                                "y": 132,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Officer",
+                    "chest_unopened_img": "/images/Items/Officer.png",
+                    "chest_opened_img": "/images/Items/Officer.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Location Advice",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 1 Advice",
+                            "access_rules": [ "Surfboard from Bondi Beach" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 2 Advice",
+                            "access_rules": [ "Taronga Zoo Koala" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 3 Advice",
+                            "access_rules": [ "Sydney Opera Sheet Music" ],
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 232,
+                                "y": 187,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Child",
+                    "chest_unopened_img": "/images/Items/Child.png",
+                    "chest_opened_img": "/images/Items/Child.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Location Advice",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 1 Advice",
+                            "access_rules": [ "Surfboard from Bondi Beach" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 2 Advice",
+                            "access_rules": [ "Taronga Zoo Koala" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 3 Advice",
+                            "access_rules": [ "Sydney Opera Sheet Music" ],
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 339,
+                                "y": 304,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Tourist",
+                    "chest_unopened_img": "/images/Items/Tourist.png",
+                    "chest_opened_img": "/images/Items/Tourist.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Location Advice",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 1 Advice",
+                            "access_rules": [ "Surfboard from Bondi Beach" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 2 Advice",
+                            "access_rules": [ "Taronga Zoo Koala" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 3 Advice",
+                            "access_rules": [ "Sydney Opera Sheet Music" ],
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 337,
+                                "y": 190,
+                                "size": 6
+                            }
+                        ]
+                        },
+                {
+                    "name": "Businesswoman",
+                    "chest_unopened_img": "/images/Items/Businesswoman.png",
+                    "chest_opened_img": "/images/Items/Businesswoman.png",
+                    "overlay_background": "#000000",
+                    "sections": [
+                
+                        {
+                            "name": "Location Advice",
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 1 Advice",
+                            "access_rules": [ "Surfboard from Bondi Beach" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 2 Advice",
+                            "access_rules": [ "Taronga Zoo Koala" ],
+                            "item_count": 1
+                        },
+                        
+                        {
+                            "name": "Artifact 3 Advice",
+                            "access_rules": [ "Sydney Opera Sheet Music" ],
+                            "item_count": 1
+                        }
+                        
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Worldmap",
+                                "x": 311,
+                                "y": 380,
+                                "size": 6
+                            }
+                        ]
+                        }
+    
+                ]
+            }
+        ]

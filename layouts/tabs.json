@@ -1,0 +1,34 @@
+{
+            "tabbed_maps_horizontal": {
+            "type": "tabbed",
+            "tabs": [
+            
+                {
+                    "title": "Worldmap",
+                    "content": {
+                        "type": "map",
+                        "maps": [
+                            "Worldmap"
+                        ]
+                    }
+                
+                }
+            ]
+        },
+            "tabbed_maps_vertical": {
+            "type": "tabbed",
+            "tabs": [
+            
+                {
+                    "title": "Worldmap",
+                    "content": {
+                        "type": "map",
+                        "maps": [
+                            "Worldmap"
+                        ]
+                    }
+                
+                }
+            ]
+        }
+    }

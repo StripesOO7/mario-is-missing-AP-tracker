@@ -1,0 +1,20 @@
+
+{
+    "name": "Mario is Missing Archipelago",
+    "game_name": "Mario is Missing",
+    "package_version": "0.0.1",
+    // "platform": "snes",
+    "package_uid": "mario is missing_ap",
+    "author": "builder_script",
+    "variants": {
+        "Map Tracker": {
+            "display_name": "Map Tracker",
+            "flags": ["ap"]
+        },
+        "Items Only": {
+            "display_name": "Items Only",
+            "flags": ["ap"]
+        }
+    }
+    // "versions_url": "https://raw.githubusercontent.com/StripesOO7/alttp-ap-poptracker-pack/versions/versions.json"
+}
